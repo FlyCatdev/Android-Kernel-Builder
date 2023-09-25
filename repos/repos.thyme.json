@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "Thyme-KernelSU-FlyCat",
-      "repo": "https://github.com/FlyCatdev/Thyme-KernelSU-FlyCat.git",
+      "repo": "https://github.com/FlyCatdev/Thyme-KernelSU-FlyCat",
       "device": "thyme",
       "defconfig": "thyme_defconfig"
     },
@@ -44,8 +44,8 @@
   },
   {
     "kernelSource": {
-      "name": "Thyme-KernelSU-FlyCat",
-      "repo": "https://github.com/FlyCatdev/Thyme-KernelSU-FlyCat.git",
+      "name": "Thyme-FlyCat",
+      "repo": "https://github.com/FlyCatdev/Thyme-KernelSU-FlyCat",
       "device": "thyme",
       "defconfig": "thyme_defconfig"
     },
