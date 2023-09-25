@@ -44,7 +44,7 @@
   },
   {
     "kernelSource": {
-      "name": "Thyme-FlyCat",
+      "name": "Thyme-KernelSU-FlyCat",
       "repo": "https://github.com/FlyCatdev/android_kernel_xiaomi_thyme.git",
       "device": "thyme",
       "defconfig": "thyme_defconfig"
