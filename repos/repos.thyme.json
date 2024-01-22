@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "FlyCat-SU",
-      "repo": "https://github.com/Laulan56/android_kernel_xiaomi_sm8150",
-      "branch": "miui",
+      "repo": "https://github.com/MillanSiS/android_kernel_xiaomi_sm8150",
+      "branch": "android-10",
       "device": "raphael",
       "defconfig": "raphael_defconfig"
     },
@@ -46,8 +46,8 @@
   {
     "kernelSource": {
       "name": "FlyCat",
-      "repo": "https://github.com/Laulan56/android_kernel_xiaomi_sm8150",
-      "branch": "miui",
+      "repo": "https://github.com/MillanSiS/android_kernel_xiaomi_sm8150",
+      "branch": "android-10",
       "device": "raphael",
       "defconfig": "raphael_defconfig"
     },
