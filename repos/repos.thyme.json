@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "FlyCat-SU",
-      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
-      "branch": "cepheus-q-oss",
-      "device": "cepheus-q-oss",
-      "defconfig": "raphael_user_defconfig"
+      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sm8150",
+      "branch": "lineage-19.1",
+      "device": "raphael",
+      "defconfig": "defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
@@ -46,10 +46,10 @@
   {
     "kernelSource": {
       "name": "FlyCat",
-      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
-      "branch": "cepheus-q-oss",
+      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sm8150",
+      "branch": "lineage-19.1",
       "device": "raphael",
-      "defconfig": "raphael_user_defconfig"
+      "defconfig": "defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
