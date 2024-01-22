@@ -4,7 +4,7 @@
       "name": "FlyCat-SU",
       "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
       "branch": "cepheus-q-oss",
-      "device": "raphael",
+      "device": "cepheus-q-oss",
       "defconfig": "raphael_user_defconfig"
     },
     "withKernelSU": true,
@@ -40,7 +40,7 @@
       "use": true,
       "release": true,
       "repo": "https://github.com/easterNday/AnyKernel3/",
-      "branch": "thyme"
+      "branch": "master"
     }
   },
   {
@@ -81,7 +81,7 @@
       "use": true,
       "release": true,
       "repo": "https://github.com/easterNday/AnyKernel3/",
-      "branch": "thyme"
+      "branch": "master"
     }
   }
 ]
